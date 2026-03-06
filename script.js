@@ -5,7 +5,7 @@ const gifStages = [
     "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
     "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
     "https://media.tenor.com/9D8lslRwaeYAAAAj/sad-sorry.gif",             // 5 devastated
-    "https://tenor.com/en-GB/view/sad-sorry-gif-20710198",               // 6 very devastated
+    "https://media.tenor.com/9D8lslRwaeYAAAAj/sad-sorry.gif",               // 6 very devastated
     "https://tenor.com/en-GB/view/sad-anxious-cute-bunny-worried-gif-16623750"  // 7 crying runaway
 ]
 
