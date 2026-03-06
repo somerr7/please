@@ -1,5 +1,5 @@
 const gifStages = [
-    "https://media.tenor.com/l4rQl6wnYJ0AAAAi/cute-bunny.gif",    // 0 normal
+    "https://media.tenor.com/l4rQl6wnYJ0AAAAi/cute-bunny.gif",// 0 normal
     "https://media.tenor.com/pjBtpAFSnmgAAAAM/peach-goma-peach-and-goma.gif",  // 1 confused
     "https://media.tenor.com/925LDfyVUGEAAAAm/cute-sad.webp",             // 2 pleading
     "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
